@@ -19,7 +19,7 @@ Each script demonstrates different physical phenomena relevant to seismic imagin
 | `layered_refraction_model.m`     | Simulates wave refraction through a multi-layered model.    |
 | `scattering_with_obstacle.m`     | Shows reflection and scattering due to a velocity anomaly.  |
 
-## 🛠 Requirements
+##  Requirements
 
 - MATLAB R2021a or later
 - Custom function: `acu2Dpro` (provided separately or from course materials)
